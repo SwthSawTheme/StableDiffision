@@ -8,7 +8,7 @@ response = requests.post(
     },
     files={"none": ''},
     data={
-        "prompt": "an extremely detailed and extremely diabolical vampire lord in front of a French Renaissance medieval castle, on a dark night with a red moon, ultra realistic, in high definition, ultra colorin",
+        "prompt": "Sekiro Shadow Die Twice dressed as Batman, ultra realistic, ultra detailed amid intense red rain, red details on the clothes and on the cover. Demonic and vampiric look, ultra coloring and RGB, ultra particles, lots and lots of particles on the screen, in high definition, ultra reality, fire particles, smoke effects, ultra cinematics, rising particle effects, ancient, ultra detailed particles, mesh ultra detailed",
         "output_format": "webp",
     },
 )
